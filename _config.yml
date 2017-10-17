@@ -25,6 +25,8 @@ github_username:  egorsmth
 # Build settings
 markdown: kramdown
 theme: minima
+disqus:
+    shortname: https://egorsmth-github-io.disqus.com/admin/
 plugins:
   - jekyll-feed
 
