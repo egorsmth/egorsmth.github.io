@@ -3,6 +3,7 @@ layout: post
 title:  "Начало"
 date:   2017-10-17
 categories: misc
+comments: true
 ---
 Привет всем!
 
