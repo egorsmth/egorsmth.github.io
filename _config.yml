@@ -19,15 +19,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   My space of thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://egorsmth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  egorsmth
+github_username: egorsmth
 
 # Build settings
 markdown: kramdown
 theme: minima
-comments:
-  provider: disqus
-  disqus:
-    shortname: egorsmth-github-io
+disqus:
+  shortname: egorsmth-github-io
 plugins:
   - jekyll-feed
 
