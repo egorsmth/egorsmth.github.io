@@ -28,6 +28,7 @@ disqus:
   shortname: egorsmth-github-io
 plugins:
   - jekyll-feed
+google_analytics: UA-108412461-1
 
 permalink: :title
 # Exclude from processing.
