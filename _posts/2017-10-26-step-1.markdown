@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Шаг #1"
+title:  "Неделя #1 Помидры с лиспом"
 date:   2017-10-26
 categories: programming edication
 ---
