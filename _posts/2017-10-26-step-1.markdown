@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Неделя #1 Помидры с лиспом"
+title:  "Неделя #1 Помидоры с лиспом"
 date:   2017-10-26
 categories: programming edication
 ---
