@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Шаг #0"
+title:  "Неделя #0 Пролог(не ЯП)"
 date:   2017-10-18
 categories: programming edication
 ---
